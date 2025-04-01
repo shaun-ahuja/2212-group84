@@ -1,0 +1,16 @@
+{
+  "last_slept" : "2025-03-31T17:45:28.065437",
+  "total_play_time" : 611256,
+  "pet_type" : "type5",
+  "fullness_level" : 0.0,
+  "health_level" : 2.0,
+  "happiness_level" : 0.0,
+  "inventory" : [ "Basic Food", "Basic Food", "Basic Food", "Premium Food", "Premium Food", "Basic Toy", "Basic Toy", "Premium Toy", "Deluxe Toy", "Basic Food", "Premium Food", "Basic Toy" ],
+  "last_session_start" : 1743463208220,
+  "score" : 15,
+  "pet_name" : "Dragonite",
+  "player_id" : "35d7c640-fb9b-4388-bfd9-58fa79ec5f39",
+  "last_fed" : "2025-03-31T17:45:28.065428",
+  "sleep_level" : 0.0,
+  "last_reward_time" : 1743463204214
+}

@@ -1,0 +1,12 @@
+{
+  "child_accounts" : [ "123456", "654321" ],
+  "parent_id" : "789123",
+  "playtime_limit" : {
+    "daily_limit" : 60,
+    "weekly_limit" : 300
+  },
+  "restrictions" : {
+    "restricted_days" : [ "sunday", "saturday", "tuesday", "wednesday", "thursday", "friday", "monday" ],
+    "restricted_hours" : [ "22:00-06:00" ]
+  }
+}

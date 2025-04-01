@@ -1,0 +1,17 @@
+{
+  "last_slept" : "2025-03-31T18:03:12.925904",
+  "total_play_time" : 690183,
+  "pet_type" : "type2",
+  "fullness_level" : 0.0,
+  "health_level" : 2.0,
+  "happiness_level" : 0.0,
+  "inventory" : [ "Basic Food", "Basic Food", "Basic Food", "Premium Food", "Basic Toy", "Basic Toy", "Basic Food", "Premium Toy", "Premium Food" ],
+  "last_session_start" : 1743463208071,
+  "score" : 20,
+  "pet_name" : "Nidoking",
+  "player_id" : "eba5a668-70dd-4951-87bf-d66bcad5e12c",
+  "last_fed" : "2025-03-31T18:03:12.925896",
+  "sleep_level" : 0.0,
+  "last_reward_time" : 1743462909074,
+  "pet_state" : "dead"
+}

@@ -1,0 +1,17 @@
+{
+  "last_slept" : "2025-03-31T17:37:04.860308",
+  "total_play_time" : 1840458,
+  "pet_type" : "type6",
+  "fullness_level" : 0.0,
+  "health_level" : 2.0,
+  "happiness_level" : 0.0,
+  "inventory" : [ "Basic Food", "Basic Food", "Basic Food", "Premium Food", "Premium Food", "Basic Toy", "Premium Toy", "Premium Toy", "Basic Food", "Basic Food", "Basic Toy", "Basic Toy", "Deluxe Food", "Premium Food", "Basic Toy", "Basic Toy", "Basic Food", "Basic Food", "Basic Toy", "Basic Toy", "Basic Food", "Premium Toy", "Deluxe Toy" ],
+  "last_session_start" : 1743463207614,
+  "score" : 20,
+  "pet_name" : "Lap",
+  "player_id" : "5944cf07-eca4-4fb4-aa8d-d5fcde0ca1bd",
+  "last_fed" : "2025-03-31T17:37:04.860296",
+  "sleep_level" : 0.0,
+  "last_reward_time" : 1743463194614,
+  "pet_state" : "normal"
+}
